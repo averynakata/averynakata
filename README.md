@@ -1,5 +1,6 @@
 ## Hi there 👋
 ##### - 🌱 I’m currently learning HTML
+##### - 🤔 I’m looking for help with how to use GitHub
 ##### - 📫 How to reach me: avery.nakata@gmail.com
 ##### - 😄 Pronouns: she/her
 
@@ -10,11 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: avery.nakata@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
